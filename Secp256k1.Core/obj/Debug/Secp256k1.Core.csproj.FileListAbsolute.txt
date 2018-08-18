@@ -1,0 +1,10 @@
+C:\Users\Shahzad Aslam\Downloads\Secp256k1-master\Secp256k1.Core\bin\Debug\Secp256k1.dll
+C:\Users\Shahzad Aslam\Downloads\Secp256k1-master\Secp256k1.Core\bin\Debug\Secp256k1.pdb
+C:\Users\Shahzad Aslam\Downloads\Secp256k1-master\Secp256k1.Core\obj\Debug\Secp256k1.Core.csprojResolveAssemblyReference.cache
+C:\Users\Shahzad Aslam\Downloads\Secp256k1-master\Secp256k1.Core\obj\Debug\Secp256k1.dll
+C:\Users\Shahzad Aslam\Downloads\Secp256k1-master\Secp256k1.Core\obj\Debug\Secp256k1.pdb
+F:\Projects\git\BitcoinAddressSearch\Secp256k1.Core\bin\Debug\Secp256k1.dll
+F:\Projects\git\BitcoinAddressSearch\Secp256k1.Core\bin\Debug\Secp256k1.pdb
+F:\Projects\git\BitcoinAddressSearch\Secp256k1.Core\obj\Debug\Secp256k1.Core.csprojResolveAssemblyReference.cache
+F:\Projects\git\BitcoinAddressSearch\Secp256k1.Core\obj\Debug\Secp256k1.dll
+F:\Projects\git\BitcoinAddressSearch\Secp256k1.Core\obj\Debug\Secp256k1.pdb

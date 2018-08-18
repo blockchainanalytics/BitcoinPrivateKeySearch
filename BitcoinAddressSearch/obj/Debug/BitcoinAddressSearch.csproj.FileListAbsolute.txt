@@ -20,3 +20,4 @@ F:\Projects\git\BitcoinAddressSearch\BitcoinAddressSearch\bin\Debug\System.Buffe
 F:\Projects\git\BitcoinAddressSearch\BitcoinAddressSearch\bin\Debug\NBitcoin.xml
 F:\Projects\git\BitcoinAddressSearch\BitcoinAddressSearch\bin\Debug\Newtonsoft.Json.xml
 F:\Projects\git\BitcoinAddressSearch\BitcoinAddressSearch\bin\Debug\System.Buffers.xml
+F:\Projects\git\BitcoinAddressSearch\BitcoinAddressSearch\obj\Debug\BitcoinAddressSearch.csprojResolveAssemblyReference.cache
